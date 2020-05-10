@@ -1,0 +1,22 @@
+{
+    "name": "byivo/php-dojo",
+    "authors": [
+        {
+            "name": "Ivo",
+            "email": "irbatistela@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "DojoPHP\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Test\\DojoPHP\\": "test/"
+        }
+    }
+}
