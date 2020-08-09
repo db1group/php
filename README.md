@@ -8,6 +8,8 @@
 
 <p align="center">🎉 <a href="https://github.com/db1group/click-and-code/blob/master/CONTRIBUTING.md">Click here to contribute</a> 🥳</p>
 
+<p align="center"><a href="https://github.com/db1group/click-and-code">-= Back to Main Project =-</a></p>
+
 ## How to run a test
 
 Just open the test class and click over `Run test` option, right above the test name.
